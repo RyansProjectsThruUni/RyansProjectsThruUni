@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @RyansProjectsThruUni
+- 👀 I’m interested in learning C++, Java, and Python.
+- 🌱 I’m currently learning C++
+- I'm really just doing this to track my progress through my courses.
